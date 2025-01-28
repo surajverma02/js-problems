@@ -1,4 +1,4 @@
 # JavaScript Problems
 
 ## Contents
- - 
+ - String
